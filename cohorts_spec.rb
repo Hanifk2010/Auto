@@ -5,7 +5,7 @@ require 'C:\Users\IBM_ADMIN\RubymineProjects\Test\requires.rb'
 
 
 
-RSpec.describe 'Cohort Creation on Atmosphere' do
+RSpec.describe 'Cohort1 Creation on Atmosphere' do
 
   before(:all) do
 
